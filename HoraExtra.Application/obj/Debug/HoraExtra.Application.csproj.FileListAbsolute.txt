@@ -1,0 +1,5 @@
+C:\Users\gsw.mariliam\Documents\Phynton\modelo.bdd-master\HoraExtra.Application\bin\Debug\HoraExtra.Application.exe.config
+C:\Users\gsw.mariliam\Documents\Phynton\modelo.bdd-master\HoraExtra.Application\bin\Debug\HoraExtra.Application.exe
+C:\Users\gsw.mariliam\Documents\Phynton\modelo.bdd-master\HoraExtra.Application\bin\Debug\HoraExtra.Application.pdb
+C:\Users\gsw.mariliam\Documents\Phynton\modelo.bdd-master\HoraExtra.Application\obj\Debug\HoraExtra.Application.exe
+C:\Users\gsw.mariliam\Documents\Phynton\modelo.bdd-master\HoraExtra.Application\obj\Debug\HoraExtra.Application.pdb
