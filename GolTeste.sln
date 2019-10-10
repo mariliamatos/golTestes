@@ -3,9 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29403.142
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolVoo.Test", "HoraExtra.Test\GolVoo.Test.csproj", "{D5CC895B-0476-4E82-A3D5-ED3FFD406936}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GooVoo.Application", "HoraExtra.Application\GooVoo.Application.csproj", "{189BC6AE-60E3-4341-BA9B-113D3D4A37CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GolVoo.Test", "GolVoo.Test\GolVoo.Test.csproj", "{D5CC895B-0476-4E82-A3D5-ED3FFD406936}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{D5CC895B-0476-4E82-A3D5-ED3FFD406936}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5CC895B-0476-4E82-A3D5-ED3FFD406936}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5CC895B-0476-4E82-A3D5-ED3FFD406936}.Release|Any CPU.Build.0 = Release|Any CPU
-		{189BC6AE-60E3-4341-BA9B-113D3D4A37CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{189BC6AE-60E3-4341-BA9B-113D3D4A37CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{189BC6AE-60E3-4341-BA9B-113D3D4A37CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{189BC6AE-60E3-4341-BA9B-113D3D4A37CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
